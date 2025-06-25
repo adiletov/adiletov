@@ -52,21 +52,15 @@ Frontend-разработчик с опытом более 4 лет, специ�
 - Cross-functional teamwork
 - UI/UX-focused mindset
 
-### 🌍 Languages
-- 🇷🇺 Русский — свободно
-- 🇬🇧 English — A2–B1
-
----
-
-### 📫 Contact
-- 📍 Kyrgyzstan, Bishkek
-- 📧 nrdl777@gmail.com
-- 📱 +996 707 00 90 90
-- 💬 Telegram: [@adiletov_n](https://t.me/adiletov_n)
-
 ---
 
 ## 🧱 Структура проекта
+
+## 🚧 Статус проекта
+
+> ⚠️ **Проект находится в разработке. Новые функции и улучшения добавляются по мере времени.**
+
+---
 
 ### 📱 Mobile App (Flutter)
 Мобильное приложение для пользователей, позволяет искать, публиковать и просматривать автомобили.  
@@ -92,6 +86,19 @@ RESTful API, авторизация по JWT, управление пользо�
 Web-интерфейс для автосалонов: загрузка авто, редактирование профиля, просмотр заявок.  
 📁 `dealership-admin/`  
 🔗 [GG-car Dealership Admin (репозиторий)](https://github.com/adiletov/gg-crm-dealer)
+
+
+### 🌍 Languages
+- 🇷🇺 Русский — свободно
+- 🇬🇧 English — A2–B1
+
+---
+
+### 📫 Contact
+- 📍 Kyrgyzstan, Bishkek
+- 📧 nrdl777@gmail.com
+- 📱 +996 707 00 90 90
+- 💬 Telegram: [@adiletov_n](https://t.me/adiletov_n)
 
 ---
 
