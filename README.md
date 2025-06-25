@@ -84,6 +84,7 @@ Web-интерфейс для автосалонов: загрузка авто,
 📁 `dealership-admin/`  
 🔗 [GG-car Dealership Admin (репозиторий)](https://github.com/adiletov/gg-crm-dealer)
 
+---
 
 ### 🌍 Languages
 - 🇷🇺 Русский — свободно
