@@ -22,7 +22,7 @@ Frontend-разработчик с опытом более 4 лет, специ�
 
 **Frontend:**
 - JavaScript / TypeScript
-- React 19, Next 15
+- React, Next
 - Vue 2 / 3
 - React Native, Flutter
 - Redux Toolkit, RTK Query, Zustand, React Query
