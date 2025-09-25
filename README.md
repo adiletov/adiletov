@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuradil Adiletov</h1>
-<h3 align="center">Frontend Developer | 4+ years experience</h3>
+<h3 align="center">Frontend Developer | 5+ years experience</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nuradil-a-8132121b3/" target="_blank">
